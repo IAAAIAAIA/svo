@@ -1,2 +1,2 @@
 # svo
-Semidirect Visual Odometry algorithm in Python for ROS
+Semidirect Visual Odometry (SVO) algorithm in Python for ROS
